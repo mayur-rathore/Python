@@ -1,4 +1,2 @@
 .idea/
-Scripts/
-venv/Lib/site-packages/
-*.cfg
+venv/
